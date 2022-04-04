@@ -1,7 +1,11 @@
 # Companion Buddy
+
 **Project manager:** A definir
+
 **Ultima revisión:** 4 de abril del 2022
+
 **Matería:** Laboratorio IV
+
 **Integrantes:** 
 - Darré, Juan Cruz
 - de Aragón, Juan Manuel
@@ -19,7 +23,7 @@ _Para saber cómo funciona primero vamos a plantear el diagrama del funcionamien
 *tal véz selenium.
 
 
-## Alcance del proyecto:
+## Alcance del proyecto
 ### Entregables:
 - Sistema de acompañamiento virtual
 - Documentación
@@ -27,7 +31,7 @@ _Para saber cómo funciona primero vamos a plantear el diagrama del funcionamien
 ### Fuera del alcance:
 - No realiza tareas que no estén previamente definidas
 - Solo funciona en la plataforma miubp3
-# Recursos:
+### Recursos:
 - _A definir_
 ### Partes interesadas y aprobadores:
 - Sponsor del proyecto: Universidad Blas Pascal
